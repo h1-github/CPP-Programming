@@ -2,6 +2,9 @@
 
 using namespace std;
 
+/**
+ * 定义一个输出较小数的函数
+ */
 void PrintMin(int a, int b){
     if(a < b){
         cout << a << endl;
